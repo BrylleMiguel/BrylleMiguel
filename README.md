@@ -1,4 +1,4 @@
-<h1 align="left">Bee you, (☞ﾟヮﾟ)☞</h1>
+<h1 align="left">Be U, (☞ﾟヮﾟ)☞</h1>
 ᓚᘏᗢ meeeoww
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
