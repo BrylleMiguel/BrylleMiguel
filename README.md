@@ -1,5 +1,4 @@
-<h1 align="left">Think like a cat... meow?'</h1>
-ᓚᘏᗢ meeeoww
+<h1 align="left">Think like a cat... meow?' ᓚᘏᗢ </h1>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
